@@ -1,3 +1,6 @@
+-- AUTOR: RODRIGO BARBOZA
+-- DATA: 18/03/2020
+
 -- declaração do uso das bibliotecas do IEEE
 library IEEE;
 -- uso da biblioteca std_logic_1164 do IEEE, todas as funções
