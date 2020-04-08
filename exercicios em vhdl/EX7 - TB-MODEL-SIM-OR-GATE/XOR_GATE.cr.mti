@@ -1,0 +1,17 @@
+{C:/Users/Rodrigo/Documents/Curso de FPGA/EX7 - MS/XOR_GATE.vhd} {1 {vcom -work work -2002 -explicit {C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XOR_GATE
+-- Compiling architecture XOR_GATE_HW of XOR_GATE
+
+} {} {}} {C:/Users/Rodrigo/Documents/Curso de FPGA/EX7 - MS/XOR_GATE_TB.vhd} {1 {vcom -work work -2002 -explicit {C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE_TB.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity TESTBENCH1
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture XOR_GATE_TB of TESTBENCH1
+
+} {} {}}

@@ -1,0 +1,73 @@
+m255
+K3
+13
+cModel Technology
+dC:\Program Files (x86)\Altera Installer\13.0.1
+Etestbench1
+Z0 w1585685880
+Z1 dC:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS
+Z2 8C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE_TB.vhd
+Z3 FC:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE_TB.vhd
+l0
+L1
+VlQIbiKX8M>jP5ojcfok4P1
+!s100 VcBYBGiefCMQOf@ZBJbZg0
+Z4 OV;C;10.1d;51
+32
+!i10b 1
+Z5 !s108 1585685883.465000
+Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE_TB.vhd|
+Z7 !s107 C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE_TB.vhd|
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+Axor_gate_tb
+Z10 DEx4 work 10 testbench1 0 22 lQIbiKX8M>jP5ojcfok4P1
+Z11 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z12 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+l19
+L8
+VIIX8QUj4S<ZhCBMH86C@Q2
+!s100 g@88iANck^a_1Jhbkcc;23
+R4
+32
+!i10b 1
+R5
+R6
+R7
+R8
+R9
+Exor_gate
+Z13 w1585683739
+R11
+R12
+R1
+Z14 8C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE.vhd
+Z15 FC:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE.vhd
+l0
+L4
+VkmFehQTkAj>[XOCENgco[3
+R4
+32
+Z16 !s108 1585683995.128000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE.vhd|
+Z18 !s107 C:\Users\Rodrigo\Documents\Curso de FPGA\EX7 - MS\XOR_GATE.vhd|
+R8
+R9
+!s100 dCQC8QEZF>8fTQfBA]LlU3
+!i10b 1
+Axor_gate_hw
+R11
+R12
+DEx4 work 8 xor_gate 0 22 kmFehQTkAj>[XOCENgco[3
+l11
+L11
+VnQM;FcUdJEc8SoEZ<dCF02
+R4
+32
+R16
+R17
+R18
+R8
+R9
+!s100 kf6[GQRghW<ME5<Y[Tf771
+!i10b 1

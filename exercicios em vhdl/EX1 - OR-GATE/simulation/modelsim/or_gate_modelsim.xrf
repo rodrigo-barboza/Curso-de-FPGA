@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Rodrigo/Documents/Curso de FPGA/EX1/or_gate.vhd
+source_file = 1, C:/Users/Rodrigo/Documents/Curso de FPGA/EX1/Waveform.vwf
+source_file = 1, C:/Users/Rodrigo/Documents/Curso de FPGA/EX1/db/or_gate.cbx.xml
+source_file = 1, c:/program files (x86)/altera installer/13.0.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/program files (x86)/altera installer/13.0.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/program files (x86)/altera installer/13.0.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/program files (x86)/altera installer/13.0.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = or_gate
+instance = comp, \g_portD~output\, g_portD~output, or_gate, 1
+instance = comp, \g_portA~input\, g_portA~input, or_gate, 1
+instance = comp, \g_portC~input\, g_portC~input, or_gate, 1
+instance = comp, \g_portB~input\, g_portB~input, or_gate, 1
+instance = comp, \g_portD~0\, g_portD~0, or_gate, 1

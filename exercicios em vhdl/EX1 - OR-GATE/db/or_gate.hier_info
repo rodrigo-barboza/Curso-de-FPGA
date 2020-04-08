@@ -1,0 +1,10 @@
+|or_gate
+g_portA => out_g2.IN0
+g_portA => out_g3.IN0
+g_portB => out_g1.IN0
+g_portB => out_g3.IN1
+g_portC => out_g1.IN1
+g_portC => out_g2.IN1
+g_portD <= g_portD.DB_MAX_OUTPUT_PORT_TYPE
+
+
